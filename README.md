@@ -26,6 +26,6 @@
 
 ## My social accounts
 
-[Stackoverflow](https://stackoverflow.com/users/13521703/mohammed-alwedaei)
+[Stackoverflow](https://stackoverflow.com/users/13521703/mohammed-alwedaei) 💻
 
-[LinkedIn](https://www.linkedin.com/in/mohammed-alwedaei-b6714a176/)
+[LinkedIn](https://www.linkedin.com/in/mohammed-alwedaei-b6714a176/) 📃
