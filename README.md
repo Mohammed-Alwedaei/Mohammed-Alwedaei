@@ -23,3 +23,9 @@
    - Software design patterns 🔍
    - Software development principles and rules 📐
    - Microservices Architecture 🔬
+
+## My social accounts
+
+[Stackoverflow](https://stackoverflow.com/users/13521703/mohammed-alwedaei)
+
+[LinkedIn](https://www.linkedin.com/in/mohammed-alwedaei-b6714a176/)
