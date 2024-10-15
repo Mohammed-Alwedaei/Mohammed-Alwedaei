@@ -1,21 +1,17 @@
 # Hi I'm Mohammed Alwedaei 👋🏼🧑🏼‍💻
 
-![Profile img](./images/profile_img.jpg)
-
 ## I like
 
 - Software design and development
 - Drinking Coffee ☕🍵
-- Writing my daily routine ✏️📕
+- Journaling ✏️📕
 - Help people learn more 🧑🏼‍🏫
 - Watch movies 🎥🍿
 
-## I'm currently doing my Bachelor's degree in
+## My Education
+1. Masters in Information Technology and Computer Science 👨🏼‍🎓
 
 1. Multimedia Systems 📚
-   - Web design and programming 🖥️🔐
-   - Multimedia tools 🎨👨🏼‍🎨
-   - Software architecture principles 📐
 
 ## I'm currently intrested in:
 
